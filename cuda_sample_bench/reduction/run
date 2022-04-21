@@ -1,0 +1,7 @@
+./reduction -kernel=0
+./reduction -kernel=1
+./reduction -kernel=2
+./reduction -kernel=3
+./reduction -kernel=4
+./reduction -kernel=5
+./reduction -kernel=6
