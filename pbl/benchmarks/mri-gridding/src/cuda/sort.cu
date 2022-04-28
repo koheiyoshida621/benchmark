@@ -10,8 +10,7 @@
 #include <stdio.h>
 
 #include "scanLargeArray.h"
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 #define UINT32_MAX 4294967295
 #define BITS 4

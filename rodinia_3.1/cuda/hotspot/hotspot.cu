@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <assert.h>
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 #ifdef RD_WG_SIZE_0_0                                                            
         #define BLOCK_SIZE RD_WG_SIZE_0_0                                        

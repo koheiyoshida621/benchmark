@@ -38,7 +38,7 @@ extern "C" void BlackScholesCPU(
 // Process an array of OptN options on GPU
 ////////////////////////////////////////////////////////////////////////////////
 #include "BlackScholes_kernel.cuh"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Helper function, returning uniformly distributed

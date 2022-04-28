@@ -18,8 +18,7 @@
 #include "scanLargeArray.h"
 #include "GPU_kernels.cu"
 #include "CPU_kernels.h"
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 #define USE_CUDPP 0
 #if USE_CUDPP

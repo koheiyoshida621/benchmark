@@ -13,8 +13,7 @@
 #include "atom.h"
 #include "cutoff.h"
 #include "parboil.h"
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 //#define ITER 750
 #define ITER 1
 #ifdef __DEVICE_EMULATION__

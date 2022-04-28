@@ -30,8 +30,7 @@
 
 // includes, kernels
 #include "lbm_kernel.cu"
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 #define REAL_MARGIN (CALC_INDEX(0, 0, 2, 0) - CALC_INDEX(0,0,0,0))
 #define TOTAL_MARGIN (2*PADDED_X*PADDED_Y*N_CELL_ENTRIES)

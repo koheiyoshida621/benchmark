@@ -34,8 +34,7 @@ const char *sSDKname = "simpleMultiCopy";
 // includes, project
 #include <helper_cuda.h>
 #include <helper_functions.h>  // helper for shared that are common to CUDA Samples
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 #define ITER 10
 // includes, kernels

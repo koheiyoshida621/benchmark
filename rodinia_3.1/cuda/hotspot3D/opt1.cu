@@ -1,5 +1,4 @@
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 long long get_time() {
 	struct timeval tv;
 	gettimeofday(&tv, NULL);

@@ -16,8 +16,7 @@
 #define BLOCK_X 16
 #define BLOCK_Y 16
 
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 /**
 @var M value for Linear Congruential Generator (LCG); use GCC's value

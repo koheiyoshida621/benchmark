@@ -11,8 +11,7 @@
 #include <assert.h>
 #include "model.h"
 #include <math.h>
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 #define WARP_SIZE 32
 #define NUM_BANKS 16

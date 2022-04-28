@@ -34,8 +34,7 @@
 #include "common.h"
 #include "transform_buffer.h"
 #include "io.h"
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 namespace dwt_cuda {
 

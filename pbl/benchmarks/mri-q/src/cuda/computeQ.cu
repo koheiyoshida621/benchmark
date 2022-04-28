@@ -5,8 +5,7 @@
  *cr                         All Rights Reserved
  *cr
  ***************************************************************************/
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 #define PI   3.1415926535897932384626433832795029f
 #define PIx2 6.2831853071795864769252867665590058f

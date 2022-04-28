@@ -18,8 +18,7 @@
 
 #include <stdio.h>
 #include <cooperative_groups.h>
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 namespace cg = cooperative_groups;
 
 // Utility class used to avoid linker errors with extern

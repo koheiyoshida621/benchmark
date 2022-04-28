@@ -12,8 +12,7 @@
 	
 ***********************************************/
 #include "streamcluster_header.cu"
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 using namespace std;
 

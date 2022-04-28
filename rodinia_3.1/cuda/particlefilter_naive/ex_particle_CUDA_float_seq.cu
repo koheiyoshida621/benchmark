@@ -11,8 +11,7 @@
 #define BLOCK_Y 16
 #define PI 3.1415926535897932
 
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 const int threads_per_block = 512;
 

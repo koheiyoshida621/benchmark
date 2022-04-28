@@ -51,8 +51,7 @@
 // Utilities and system includes
 #include <assert.h>
 #include <helper_string.h>  // helper for shared functions common to CUDA Samples
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 // CUDA runtime
 #include <cuda_runtime.h>

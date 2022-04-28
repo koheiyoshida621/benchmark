@@ -15,8 +15,7 @@
 #include <avilib.h>
 #include <avimod.h>
 #include <cuda.h>
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 #define ITER 1
 

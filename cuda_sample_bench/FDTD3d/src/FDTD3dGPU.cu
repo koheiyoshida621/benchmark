@@ -10,7 +10,7 @@
  */
 
 #include "FDTD3dGPU.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 #include <iostream>
 #include <algorithm>

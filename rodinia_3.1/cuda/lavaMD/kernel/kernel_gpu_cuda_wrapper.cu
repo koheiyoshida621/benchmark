@@ -8,8 +8,7 @@
 //======================================================================================================================================================150
 
 #include "./../main.h"								// (in the main program folder)	needed to recognized input parameters
-//#include "/gs/hs0/tgh-21IAH/yoshida/program/bin/getTime.h"
-#include "/home/z44577a/program/bin/getTime.h"
+#include "getTime.h"
 
 //======================================================================================================================================================150
 //	UTILITIES
